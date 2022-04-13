@@ -1,7 +1,7 @@
 - <H2>👋 Hi, I’m Marcin.</h2>
 - 👀 I’m interested in programming. Especially in a field of Java language and public cloud and also in a field of Data Engineering.
 - 🌱 I’m currently studying computer science.
-- My GitLab with CI/CD DevOps project: https://gitlab.com/marcinzawodnik/
+- My GitLab with CI/CD DevOps project (with AWS): https://gitlab.com/marcinzawodnik/
   
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
